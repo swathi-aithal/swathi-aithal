@@ -1,9 +1,6 @@
 ### Hi there 👋<br/>
-## Swathi Here
-
+<h2 align="center"><b><a href="https://swathi-aithal.github.io//">SWATHI HERE</a></b></h2>
 <!--**swathi-aithal/swathi-aithal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying in MITE
 <!-- - 🌱 I’m currently learning
@@ -14,3 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👩‍💻💻 Check Out My Projects:
+- 🚄 <a href="https://github.com/swathi-aithal/Train-ticket-booking">Train-ticket-booking</a>
+- 🏅🏐 <a href="https://github.com/swathi-aithal/Android-Project-Sportlyzer">Android-Project-Sportlyzer</a>
+- 🐟🦈 <a href="https://github.com/swathi-aithal/CG-PROJECT">Open GL Project</a>
