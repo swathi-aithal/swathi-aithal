@@ -3,6 +3,7 @@
 <!--**swathi-aithal/swathi-aithal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently studying in MITE
+- 📫 How to reach me:<a href="https://www.linkedin.com/in/swathi-s-16a969212">Linked In</a>
 <!-- - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
